@@ -148,6 +148,8 @@ import glob
 from IPython.display import Image, display
 
 for imageName in glob.glob('/content/drive/MyDrive/yolov5/yolov5/runs/detect/exp11/*.jpg')[:10]: #이미지 파일 형식에 맞춰 .png 또는 .jpg 등으로 수정
+
+https://github.com/Justin020515/AI-specialist/issues/1#issue-2744737082
     display(Image(filename=imageName))
     print("\n")
 
