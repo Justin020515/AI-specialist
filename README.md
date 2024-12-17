@@ -154,3 +154,5 @@ https://github.com/Justin020515/AI-specialist/issues/1#issue-2744737082
     print("\n")
 
 !python detect.py --weights /content/drive/MyDrive/yolov5/yolov5/runs/train/exp/weights/best.pt --img 512 --conf 0.1 --source /content/drive/MyDrive/video2.avi
+
+https://github.com/Justin020515/AI-specialist/issues/1#issue-2744737082
